@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+  text-align: center;
+  background-color: grey;
+}
+
+h2{
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+v1 {
+  background-color: white;
+}
+
+h4, h5 {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
